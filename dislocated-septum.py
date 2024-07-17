@@ -2,11 +2,11 @@
 import random
 
 # Updated word banks with less concrete nouns, more concrete actions, and slightly vague adverbs
-subjects = ["idea", "thought", "emotion", "concept", "dream", "memory", "vision", "illusion", "feeling", "imagination", "belief", "hope", "perception", "notion"]
-actions = ["is", "takes", "to", "get to", "after that", "before again", "an then", "if it", "was", "seems like", "goes to", "comes with", "happens", "moves", "stops", "looks at", "feels"]
-descriptions = ["unbelievable", "without it", "if long then", "before", "not so", "without nothing", "believable", "incomplete", "if so", "necessary", "confusing", "expected", "unheard", "beautiful", "strange"]
-adverbs = ["occasionally", "sometimes", "seldom", "nearly", "partially", "somewhat", "hardly", "barely", "mostly", "generally", "regularly", "usually"]
-determiners = ["the", "a", "my"]
+subjects = ["idea", "thought", "emotion", "understanding", "dream", "word game", "memory", "vision", "nuance", "illusion", "feeling", "imagination", "belief", "hope", "perception", "notion"]
+actions = ["is", "takes", "to", "get to", "after that", "extoll", "before again", "an then", "if it", "was", "seems like", "goes to", "comes with", "happens", "moves", "stops", "looks at", "feels"]
+descriptions = ["unbelievable", "without it", "if long then", "before", "not so", "without nothing", "believable", "because not so", "incomplete", "if so", "necessary", "confusing", "expected", "unheard", "beautiful"]
+adverbs = ["occasionally", "sometimes", "seldom", "nearly", "partial", "somewhat", "hardly", "barely", "mostly", "generally", "regularly", "usually"]
+determiners = ["the", "a", "my", "her", "their", "your", "some", "any", "an"]
 
 # Function to generate a random sentence with specific conditions
 def generate_complex_sentence():
