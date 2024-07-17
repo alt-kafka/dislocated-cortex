@@ -1,0 +1,60 @@
+{
+  "locke_essay_human_understanding": {
+    "subjects": [
+      "idea",
+      "experience",
+      "knowledge",
+      "understanding",
+      "perception",
+      "reason",
+      "substance",
+      "quality",
+      "mind"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "ideal",
+      "experiential",
+      "knowledgeable",
+      "understanding",
+      "perceptive",
+      "reasonable",
+      "substantial",
+      "qualitative",
+      "mental"
+    ],
+    "adverbs": [
+      "ideally",
+      "experientially",
+      "knowledgeably",
+      "understandingly",
+      "perceptively",
+      "reasonably",
+      "substantially",
+      "qualitatively",
+      "mentally"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

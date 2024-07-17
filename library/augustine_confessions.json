@@ -1,0 +1,60 @@
+{
+    "augustine_confessions": {
+        "subjects": [
+            "God",
+            "soul",
+            "sin",
+            "grace",
+            "confession",
+            "faith",
+            "love",
+            "truth",
+            "memory"
+        ],
+        "actions": [
+            "is",
+            "confesses",
+            "sins",
+            "forgives",
+            "loves",
+            "seeks",
+            "finds",
+            "understands",
+            "remembers"
+        ],
+        "descriptions": [
+            "divine",
+            "sinful",
+            "graceful",
+            "faithful",
+            "loving",
+            "true",
+            "memorable",
+            "spiritual",
+            "human"
+        ],
+        "adverbs": [
+            "divinely",
+            "sinfully",
+            "gracefully",
+            "faithfully",
+            "lovingly",
+            "truly",
+            "memorably",
+            "spiritually",
+            "humanly"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

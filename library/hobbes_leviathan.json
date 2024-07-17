@@ -1,0 +1,60 @@
+{
+    "hobbes_leviathan": {
+        "subjects": [
+            "state",
+            "nature",
+            "power",
+            "sovereign",
+            "society",
+            "law",
+            "authority",
+            "covenant",
+            "man"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "stateful",
+            "natural",
+            "powerful",
+            "sovereign",
+            "societal",
+            "lawful",
+            "authoritative",
+            "covenantal",
+            "human"
+        ],
+        "adverbs": [
+            "statefully",
+            "naturally",
+            "powerfully",
+            "sovereignly",
+            "societally",
+            "lawfully",
+            "authoritatively",
+            "covenantally",
+            "humanly"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

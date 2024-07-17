@@ -1,0 +1,60 @@
+{
+  "rousseau_social_contract": {
+    "subjects": [
+      "social",
+      "contract",
+      "state",
+      "nature",
+      "freedom",
+      "equality",
+      "will",
+      "law",
+      "government"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "social",
+      "contractual",
+      "stateful",
+      "natural",
+      "free",
+      "equal",
+      "willful",
+      "lawful",
+      "governmental"
+    ],
+    "adverbs": [
+      "socially",
+      "contractually",
+      "statefully",
+      "naturally",
+      "freely",
+      "equally",
+      "willfully",
+      "lawfully",
+      "governmentally"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

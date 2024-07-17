@@ -1,0 +1,60 @@
+{
+    "sen_development_freedom": {
+        "subjects": [
+            "development",
+            "freedom",
+            "economy",
+            "market",
+            "poverty",
+            "capability",
+            "rights",
+            "justice",
+            "policy"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "developed",
+            "free",
+            "economic",
+            "market",
+            "poor",
+            "capable",
+            "rightful",
+            "just",
+            "policy"
+        ],
+        "adverbs": [
+            "developedly",
+            "freely",
+            "economically",
+            "marketly",
+            "poorly",
+            "capably",
+            "rightfully",
+            "justly",
+            "policy"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

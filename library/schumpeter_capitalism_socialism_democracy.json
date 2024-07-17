@@ -1,0 +1,60 @@
+{
+    "schumpeter_capitalism_socialism_democracy": {
+        "subjects": [
+            "capitalism",
+            "socialism",
+            "democracy",
+            "economy",
+            "innovation",
+            "entrepreneur",
+            "market",
+            "development",
+            "value"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "capitalist",
+            "socialist",
+            "democratic",
+            "economic",
+            "innovative",
+            "entrepreneurial",
+            "market",
+            "developing",
+            "valuable"
+        ],
+        "adverbs": [
+            "capitalistically",
+            "socialistically",
+            "democratically",
+            "economically",
+            "innovatively",
+            "entrepreneurially",
+            "marketly",
+            "developingly",
+            "valuably"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

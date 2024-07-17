@@ -1,0 +1,60 @@
+{
+    "smith_wealth_nations": {
+        "subjects": [
+            "wealth",
+            "nations",
+            "economy",
+            "labor",
+            "market",
+            "trade",
+            "value",
+            "capital",
+            "production"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "wealthy",
+            "economic",
+            "laborious",
+            "market",
+            "trade",
+            "valuable",
+            "capitalist",
+            "productive",
+            "national"
+        ],
+        "adverbs": [
+            "wealthily",
+            "economically",
+            "laboriously",
+            "marketly",
+            "trade",
+            "valuably",
+            "capitalistically",
+            "productively",
+            "nationally"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

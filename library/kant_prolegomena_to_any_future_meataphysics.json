@@ -1,0 +1,9 @@
+{
+  "prolegomena": {
+    "subjects": ["understanding", "reason", "intuition", "sensation", "concept", "object", "phenomenon", "noumenon", "perception", "experience", "judgment", "idea", "cognition", "reality"],
+    "actions": ["is", "constitutes", "determines", "underlies", "presupposes", "manifests", "reflects", "transcends", "limits", "conditions", "grounds", "explains", "establishes", "suggests"],
+    "descriptions": ["a priori", "empirical", "transcendental", "synthetic", "analytic", "subjective", "objective", "necessary", "contingent", "universal", "particular", "pure", "intuitive", "conceptual"],
+    "adverbs": ["a priori", "empirically", "transcendentally", "synthetically", "analytically", "subjectively", "objectively", "necessarily", "contingently", "universally", "particularly", "purely", "intuitively", "conceptually"],
+    "determiners": ["the", "a", "an", "some", "any", "my", "your", "his", "her", "their"]
+  }
+}

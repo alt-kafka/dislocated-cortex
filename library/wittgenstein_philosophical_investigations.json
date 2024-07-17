@@ -1,0 +1,9 @@
+{
+  "philosophical_investigations": {
+    "subjects": ["game", "activity", "form", "language", "meaning", "action", "custom", "rule", "practice", "grammar", "concept", "picture", "tool", "method"],
+    "actions": ["is", "indicates", "shows", "explains", "demonstrates", "reflects", "constitutes", "expresses", "defines", "clarifies", "distinguishes", "suggests", "represents", "illustrates"],
+    "descriptions": ["ordinary", "complex", "simple", "common", "different", "similar", "everyday", "philosophical", "cultural", "linguistic", "social", "logical", "grammatical", "conceptual"],
+    "adverbs": ["ordinarily", "complexly", "simply", "commonly", "differently", "similarly", "everyday", "philosophically", "culturally", "linguistically", "socially", "logically", "grammatically", "conceptually"],
+    "determiners": ["the", "a", "an", "some", "any", "my", "your", "his", "her", "their"]
+  }
+}

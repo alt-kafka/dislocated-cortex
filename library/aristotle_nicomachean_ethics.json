@@ -1,0 +1,60 @@
+{
+  "aristotle_nicomachean_ethics": {
+    "subjects": [
+      "virtue",
+      "happiness",
+      "soul",
+      "reason",
+      "friendship",
+      "pleasure",
+      "justice",
+      "wisdom",
+      "character"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "virtuous",
+      "happy",
+      "rational",
+      "friendly",
+      "pleasurable",
+      "just",
+      "wise",
+      "good",
+      "bad"
+    ],
+    "adverbs": [
+      "virtuously",
+      "happily",
+      "rationally",
+      "friendly",
+      "pleasurably",
+      "justly",
+      "wisely",
+      "well",
+      "badly"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

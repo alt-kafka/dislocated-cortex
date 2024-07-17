@@ -1,0 +1,60 @@
+{
+    "keynes_general_theory": {
+        "subjects": [
+            "employment",
+            "interest",
+            "money",
+            "economy",
+            "market",
+            "investment",
+            "demand",
+            "supply",
+            "capital"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "employed",
+            "interesting",
+            "monetary",
+            "economic",
+            "market",
+            "investment",
+            "demanding",
+            "supplying",
+            "capitalist"
+        ],
+        "adverbs": [
+            "employingly",
+            "interestingly",
+            "monetarily",
+            "economically",
+            "marketly",
+            "investingly",
+            "demandingly",
+            "supplyingly",
+            "capitalistically"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "piketty_capital_21st_century": {
+        "subjects": [
+            "capital",
+            "inequality",
+            "economy",
+            "wealth",
+            "income",
+            "tax",
+            "growth",
+            "distribution",
+            "market"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "capitalist",
+            "unequal",
+            "economic",
+            "wealthy",
+            "income",
+            "taxed",
+            "growing",
+            "distributed",
+            "market"
+        ],
+        "adverbs": [
+            "capitalistically",
+            "unequally",
+            "economically",
+            "wealthily",
+            "income",
+            "taxedly",
+            "growingly",
+            "distributedly",
+            "market"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

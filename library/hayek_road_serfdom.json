@@ -1,0 +1,60 @@
+{
+    "hayek_road_serfdom": {
+        "subjects": [
+            "freedom",
+            "serfdom",
+            "market",
+            "economy",
+            "state",
+            "planning",
+            "liberty",
+            "individual",
+            "government"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "free",
+            "serf",
+            "market",
+            "economic",
+            "stateful",
+            "planned",
+            "liberal",
+            "individual",
+            "governmental"
+        ],
+        "adverbs": [
+            "freely",
+            "serfly",
+            "marketly",
+            "economically",
+            "statefully",
+            "plannedly",
+            "liberally",
+            "individually",
+            "governmentally"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

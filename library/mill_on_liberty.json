@@ -1,0 +1,60 @@
+{
+  "mill_on_liberty": {
+    "subjects": [
+      "liberty",
+      "freedom",
+      "individual",
+      "society",
+      "authority",
+      "rights",
+      "justice",
+      "harm",
+      "government"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "liberal",
+      "free",
+      "individual",
+      "societal",
+      "authoritative",
+      "rightful",
+      "just",
+      "harmful",
+      "governmental"
+    ],
+    "adverbs": [
+      "liberally",
+      "freely",
+      "individually",
+      "societally",
+      "authoritatively",
+      "rightfully",
+      "justly",
+      "harmfully",
+      "governmentally"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

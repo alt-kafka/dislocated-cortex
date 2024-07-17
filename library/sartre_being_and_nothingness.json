@@ -1,0 +1,60 @@
+{
+  "sartre_being_and_nothingness": {
+    "subjects": [
+      "being",
+      "nothingness",
+      "freedom",
+      "consciousness",
+      "existence",
+      "self",
+      "other",
+      "bad faith",
+      "choice"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "beingly",
+      "nothingness",
+      "freedom",
+      "conscious",
+      "existential",
+      "self",
+      "other",
+      "bad faith",
+      "choice"
+    ],
+    "adverbs": [
+      "beingly",
+      "nothingnessly",
+      "freedomly",
+      "consciously",
+      "existentially",
+      "selfly",
+      "otherly",
+      "bad faithly",
+      "choicely"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

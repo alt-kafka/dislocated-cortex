@@ -1,0 +1,60 @@
+{
+    "boethius_consolation_philosophy": {
+        "subjects": [
+            "fortune",
+            "reason",
+            "philosophy",
+            "happiness",
+            "fate",
+            "God",
+            "soul",
+            "virtue",
+            "wisdom"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "fortunate",
+            "reasonable",
+            "philosophical",
+            "happy",
+            "fateful",
+            "divine",
+            "virtuous",
+            "wise",
+            "true"
+        ],
+        "adverbs": [
+            "fortunately",
+            "reasonably",
+            "philosophically",
+            "happily",
+            "fatefully",
+            "divinely",
+            "virtuously",
+            "wisely",
+            "truly"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

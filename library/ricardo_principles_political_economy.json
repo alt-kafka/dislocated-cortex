@@ -1,0 +1,60 @@
+{
+    "ricardo_principles_political_economy": {
+        "subjects": [
+            "economy",
+            "labor",
+            "value",
+            "rent",
+            "capital",
+            "production",
+            "market",
+            "trade",
+            "wealth"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "economic",
+            "laborious",
+            "valuable",
+            "rental",
+            "capitalist",
+            "productive",
+            "market",
+            "trade",
+            "wealthy"
+        ],
+        "adverbs": [
+            "economically",
+            "laboriously",
+            "valuably",
+            "rental",
+            "capitalistically",
+            "productively",
+            "marketly",
+            "trade",
+            "wealthily"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "friedman_capitalism_freedom": {
+        "subjects": [
+            "capitalism",
+            "freedom",
+            "economy",
+            "market",
+            "liberty",
+            "government",
+            "policy",
+            "individual",
+            "trade"
+        ],
+        "actions": [
+            "is",
+            "constitutes",
+            "determines",
+            "reflects",
+            "seeks",
+            "establishes",
+            "represents",
+            "illustrates",
+            "demonstrates"
+        ],
+        "descriptions": [
+            "capitalist",
+            "free",
+            "economic",
+            "market",
+            "liberal",
+            "governmental",
+            "policy",
+            "individual",
+            "trade"
+        ],
+        "adverbs": [
+            "capitalistically",
+            "freely",
+            "economically",
+            "marketly",
+            "liberally",
+            "governmentally",
+            "policy",
+            "individually",
+            "trade"
+        ],
+        "determiners": [
+            "the",
+            "a",
+            "an",
+            "some",
+            "any",
+            "my",
+            "your",
+            "his",
+            "her",
+            "their"
+        ]
+    }
+}

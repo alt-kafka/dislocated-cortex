@@ -1,0 +1,60 @@
+{
+  "hume_treatise_human_nature": {
+    "subjects": [
+      "impression",
+      "idea",
+      "cause",
+      "effect",
+      "custom",
+      "habit",
+      "reason",
+      "passion",
+      "self"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "impressionable",
+      "ideal",
+      "causal",
+      "effective",
+      "customary",
+      "habitual",
+      "reasonable",
+      "passionate",
+      "selfish"
+    ],
+    "adverbs": [
+      "impressionably",
+      "ideally",
+      "causally",
+      "effectively",
+      "customarily",
+      "habitually",
+      "reasonably",
+      "passionately",
+      "selfishly"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}
