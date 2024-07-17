@@ -1,0 +1,60 @@
+{
+  "berkeley_treatise_human_knowledge": {
+    "subjects": [
+      "perception",
+      "idea",
+      "mind",
+      "spirit",
+      "reality",
+      "sensation",
+      "existence",
+      "knowledge",
+      "substance"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "perceptive",
+      "ideal",
+      "mental",
+      "spiritual",
+      "real",
+      "sensational",
+      "existent",
+      "knowledgeable",
+      "substantial"
+    ],
+    "adverbs": [
+      "perceptively",
+      "ideally",
+      "mentally",
+      "spiritually",
+      "really",
+      "sensationally",
+      "existently",
+      "knowledgeably",
+      "substantially"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

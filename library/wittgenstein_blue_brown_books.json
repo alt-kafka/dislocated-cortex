@@ -1,0 +1,9 @@
+{
+  "blue_brown_books": {
+    "subjects": ["word", "sentence", "language-game", "rule", "meaning", "concept", "context", "picture", "thought", "expression", "form of life", "understanding", "use", "sign"],
+    "actions": ["signifies", "means", "represents", "depicts", "expresses", "shows", "indicates", "follows", "obeys", "states", "describes", "involves", "applies", "connects", "reflects", "constitutes", "relates"],
+    "descriptions": ["logical", "simple", "complex", "ordinary", "usual", "common", "meaningful", "meaningless", "clear", "vague", "familiar", "strange", "significant", "ambiguous", "contextual"],
+    "adverbs": ["logically", "simply", "complexly", "ordinarily", "usually", "commonly", "meaningfully", "meaninglessly", "clearly", "vaguely", "familiarly", "strangely", "significantly", "ambiguously", "contextually"],
+    "determiners": ["the", "a", "an", "some", "any", "my", "your", "his", "her", "their"]
+  }
+}

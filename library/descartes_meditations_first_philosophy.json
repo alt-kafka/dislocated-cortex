@@ -1,0 +1,60 @@
+{
+  "descartes_meditations_first_philosophy": {
+    "subjects": [
+      "doubt",
+      "mind",
+      "body",
+      "existence",
+      "God",
+      "truth",
+      "thought",
+      "perception",
+      "reality"
+    ],
+    "actions": [
+      "is",
+      "doubts",
+      "exists",
+      "thinks",
+      "perceives",
+      "believes",
+      "proves",
+      "reflects",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "doubtful",
+      "certain",
+      "real",
+      "true",
+      "false",
+      "clear",
+      "distinct",
+      "rational",
+      "divine"
+    ],
+    "adverbs": [
+      "doubtfully",
+      "certainly",
+      "really",
+      "truly",
+      "falsely",
+      "clearly",
+      "distinctly",
+      "rationally",
+      "divinely"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

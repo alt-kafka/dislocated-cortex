@@ -1,0 +1,60 @@
+{
+  "nietzsche_thus_spoke_zarathustra": {
+    "subjects": [
+      "overman",
+      "will",
+      "power",
+      "eternal",
+      "return",
+      "truth",
+      "morality",
+      "culture",
+      "individual"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "overmanly",
+      "willful",
+      "powerful",
+      "eternal",
+      "returning",
+      "true",
+      "moral",
+      "cultural",
+      "individual"
+    ],
+    "adverbs": [
+      "overmanly",
+      "willfully",
+      "powerfully",
+      "eternally",
+      "returningly",
+      "truly",
+      "morally",
+      "culturally",
+      "individually"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

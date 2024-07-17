@@ -1,0 +1,60 @@
+{
+  "kant_critique_pure_reason": {
+    "subjects": [
+      "understanding",
+      "reason",
+      "intuition",
+      "sensation",
+      "concept",
+      "object",
+      "phenomenon",
+      "noumenon",
+      "perception"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "underlies",
+      "presupposes",
+      "manifests",
+      "reflects",
+      "transcends",
+      "limits"
+    ],
+    "descriptions": [
+      "a priori",
+      "empirical",
+      "transcendental",
+      "synthetic",
+      "analytic",
+      "subjective",
+      "objective",
+      "necessary",
+      "contingent"
+    ],
+    "adverbs": [
+      "a priori",
+      "empirically",
+      "transcendentally",
+      "synthetically",
+      "analytically",
+      "subjectively",
+      "objectively",
+      "necessarily",
+      "contingently"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

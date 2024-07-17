@@ -1,0 +1,60 @@
+{
+  "plato_republic": {
+    "subjects": [
+      "justice",
+      "city",
+      "soul",
+      "philosopher",
+      "guardian",
+      "virtue",
+      "truth",
+      "idea",
+      "good"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "just",
+      "unjust",
+      "virtuous",
+      "philosophical",
+      "ideal",
+      "real",
+      "true",
+      "false",
+      "good"
+    ],
+    "adverbs": [
+      "justly",
+      "unjustly",
+      "virtuously",
+      "philosophically",
+      "ideally",
+      "really",
+      "truly",
+      "falsely",
+      "well"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

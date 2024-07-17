@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
+import json
 import random
-
-# Updated word banks with less concrete nouns, more concrete actions, and slightly vague adverbs
-subjects = ["idea", "thought", "emotion", "understanding", "dream", "word game", "memory", "vision", "nuance", "illusion", "feeling", "imagination", "belief", "hope", "perception", "notion"]
-actions = ["is", "takes", "to", "get to", "after that", "extoll", "before again", "an then", "if it", "was", "seems like", "goes to", "comes with", "happens", "moves", "stops", "looks at", "feels"]
-descriptions = ["unbelievable", "without it", "if long then", "before", "not so", "without nothing", "believable", "because not so", "incomplete", "if so", "necessary", "confusing", "expected", "unheard", "beautiful"]
-adverbs = ["occasionally", "sometimes", "seldom", "nearly", "partial", "somewhat", "hardly", "barely", "mostly", "generally", "regularly", "usually"]
-determiners = ["the", "a", "my", "her", "their", "your", "some", "any", "an"]
+import argparse
+import os
 
 # Function to generate a random sentence with specific conditions
-def generate_complex_sentence():
+def generate_sentence(library):
+    subjects = library["subjects"]
+    actions = library["actions"]
+    descriptions = library["descriptions"]
+    adverbs = library["adverbs"]
+    determiners = library["determiners"]
+
     subject1 = random.choice(subjects)
     action1 = random.choice(actions)
     description1 = random.choice(descriptions)
@@ -46,7 +48,7 @@ def generate_complex_sentence():
 
     # 40% chance to create a double sentence
     if random.random() < 0.4:
-        additional_sentence = generate_complex_sentence().rstrip('.')
+        additional_sentence = generate_sentence(library).rstrip('.')
         # 25% chance to make one of them a fragment (2 term)
         if random.random() < 0.25:
             additional_sentence = f"{random.choice(subjects)} {random.choice(actions)}"
@@ -59,10 +61,30 @@ def generate_complex_sentence():
 
     return sentence
 
-# Generate and collect 20 random sentences with specific conditions
-random_sentences_complex = [generate_complex_sentence() for _ in range(20)]
+# CLI logic to select the library
+def main():
+    parser = argparse.ArgumentParser(description='Generate random philosophical sentences.')
+    parser.add_argument('--library', type=str, default=None, help='The library to use for generating sentences')
+    parser.add_argument('--dir', type=str, default='.', help='The directory to search for libraries')
+    args = parser.parse_args()
 
-for sentence in random_sentences_complex:
-    print(sentence)
+    library_name = args.library
+    if library_name and not library_name.endswith('.json'):
+        library_name += '.json'
 
-exit(0)
+    if args.library:
+        library_path = os.path.join(args.dir, library_name)
+        with open(library_path, 'r') as f:
+            library = json.load(f)
+    else:
+        libraries = [os.path.join(args.dir, f) for f in os.listdir(args.dir) if f.endswith('.json')]
+        library_path = random.choice(libraries)
+        with open(library_path, 'r') as f:
+            library = json.load(f)
+
+    for _ in range(20):
+        library_key = list(library.keys())[0]  # Get the first key from the JSON file
+        print(generate_sentence(library[library_key]))
+
+if __name__ == "__main__":
+    main()

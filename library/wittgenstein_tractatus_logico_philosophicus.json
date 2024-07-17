@@ -1,0 +1,60 @@
+{
+  "wittgenstein_tractatus_logico_philosophicus": {
+    "subjects": [
+      "proposition",
+      "fact",
+      "world",
+      "language",
+      "logic",
+      "meaning",
+      "truth",
+      "state",
+      "reality"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "propositional",
+      "factual",
+      "worldly",
+      "linguistic",
+      "logical",
+      "meaningful",
+      "true",
+      "stateful",
+      "real"
+    ],
+    "adverbs": [
+      "propositionally",
+      "factually",
+      "worldly",
+      "linguistically",
+      "logically",
+      "meaningfully",
+      "truly",
+      "statefully",
+      "really"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

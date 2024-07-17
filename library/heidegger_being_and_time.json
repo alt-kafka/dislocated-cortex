@@ -1,0 +1,60 @@
+{
+  "heidegger_being_and_time": {
+    "subjects": [
+      "being",
+      "time",
+      "Dasein",
+      "existence",
+      "world",
+      "presence",
+      "disclosure",
+      "understanding",
+      "care"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "beingly",
+      "timely",
+      "existential",
+      "worldly",
+      "present",
+      "disclosive",
+      "understanding",
+      "caring",
+      "true"
+    ],
+    "adverbs": [
+      "beingly",
+      "timely",
+      "existentially",
+      "worldly",
+      "presently",
+      "disclosively",
+      "understandingly",
+      "caringly",
+      "truly"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

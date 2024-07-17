@@ -1,0 +1,60 @@
+{
+  "hegel_phenomenology_spirit": {
+    "subjects": [
+      "consciousness",
+      "spirit",
+      "master",
+      "slave",
+      "dialectic",
+      "reason",
+      "freedom",
+      "history",
+      "absolute"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "conscious",
+      "spiritual",
+      "dialectical",
+      "rational",
+      "free",
+      "historical",
+      "absolute",
+      "true",
+      "false"
+    ],
+    "adverbs": [
+      "consciously",
+      "spiritually",
+      "dialectically",
+      "rationally",
+      "freely",
+      "historically",
+      "absolutely",
+      "truly",
+      "falsely"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

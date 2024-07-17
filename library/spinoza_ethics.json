@@ -1,0 +1,60 @@
+{
+  "spinoza_ethics": {
+    "subjects": [
+      "substance",
+      "attribute",
+      "mode",
+      "God",
+      "nature",
+      "necessity",
+      "freedom",
+      "reason",
+      "emotion"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "substantial",
+      "attributive",
+      "modal",
+      "divine",
+      "natural",
+      "necessary",
+      "free",
+      "reasonable",
+      "emotional"
+    ],
+    "adverbs": [
+      "substantially",
+      "attributively",
+      "modally",
+      "divinely",
+      "naturally",
+      "necessarily",
+      "freely",
+      "reasonably",
+      "emotionally"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}

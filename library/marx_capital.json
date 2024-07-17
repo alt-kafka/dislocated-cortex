@@ -1,0 +1,60 @@
+{
+  "marx_capital": {
+    "subjects": [
+      "capital",
+      "labor",
+      "class",
+      "production",
+      "commodity",
+      "value",
+      "exploitation",
+      "surplus",
+      "economy"
+    ],
+    "actions": [
+      "is",
+      "constitutes",
+      "determines",
+      "reflects",
+      "seeks",
+      "establishes",
+      "represents",
+      "illustrates",
+      "demonstrates"
+    ],
+    "descriptions": [
+      "capitalist",
+      "labor",
+      "class",
+      "productive",
+      "commodified",
+      "valuable",
+      "exploitative",
+      "surplus",
+      "economic"
+    ],
+    "adverbs": [
+      "capitalistically",
+      "laboriously",
+      "classly",
+      "productively",
+      "commodifiably",
+      "valuably",
+      "exploitatively",
+      "surplusly",
+      "economically"
+    ],
+    "determiners": [
+      "the",
+      "a",
+      "an",
+      "some",
+      "any",
+      "my",
+      "your",
+      "his",
+      "her",
+      "their"
+    ]
+  }
+}
