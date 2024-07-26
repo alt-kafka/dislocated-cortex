@@ -2,7 +2,9 @@
 import json
 import random
 import argparse
-import os
+import os, time
+
+random.seed(time.time())
 
 # Function to generate a random sentence with specific conditions
 def generate_sentence(library):
@@ -79,6 +81,7 @@ def main():
     else:
         libraries = [os.path.join(args.dir, f) for f in os.listdir(args.dir) if f.endswith('.json')]
         library_path = random.choice(libraries)
+        print(library_path)
         with open(library_path, 'r') as f:
             library = json.load(f)
 
